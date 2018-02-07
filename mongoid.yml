@@ -1,0 +1,10 @@
+development:
+  clients:
+    default:
+      database: utilities
+      hosts:
+        - 127.0.0.1:27017
+      options:
+
+  options:
+    raise_not_found_error: false

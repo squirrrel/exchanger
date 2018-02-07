@@ -1,0 +1,6 @@
+require 'open-uri'
+require 'csv'
+require 'active_support/all'
+require './lib/exchange_rate_table'
+require './lib/exchanger'
+require './lib/data_utilities'
